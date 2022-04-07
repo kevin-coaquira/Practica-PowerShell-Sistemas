@@ -7,4 +7,4 @@
 
 ## 3.ps1
 ![image](https://user-images.githubusercontent.com/91737963/162326754-2b7ccdd4-55bc-4613-9a3a-1f7e8e0007a0.png)
-![image](https://user-images.githubusercontent.com/91737963/162326796-6d16e154-a512-4a2a-bfc2-9249e2c17591.png)
+![image](https://user-images.githubusercontent.com/91737963/162326910-9bc6067c-3221-4968-8537-3311e98aa91a.png)
