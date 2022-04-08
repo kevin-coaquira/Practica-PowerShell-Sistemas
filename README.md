@@ -9,6 +9,7 @@ Y así sucessivamente en todo 1.ps1
 
 ## 2.ps1
 ![image](https://user-images.githubusercontent.com/91737963/162325846-f923fc3d-fa23-4ec7-bfdd-875d8d650749.png)
+
 -Lo primero que hace es sacar por pantalla "hello" 5 veces ya que [int]$repeat = 5 y esta dentro de un bucle con "for" y hasta que $counter = 0
 -Lo siguiente que se usa con "while" es el mismo resultado que con el "for". Simplemente que aqui dice que repita 5 veces y que cuando $counter llegue a 0 que deje de repetir, en cambio en el for se usa $counter++ que hace que $counter=0+1 y asi hasta llegar 5 repeticiones ya que tiene $repeat = 5
 -Lo siguiente que hace con el "do" es hacer que se repita 5 y contador 0 y que salga por pantalla "hello" y tiene $counter++ para que repita desde 0 hasta llegar 5 veces. El resultado es el mismo que los anteriores.
