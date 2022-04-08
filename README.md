@@ -1,6 +1,7 @@
 # Practica PowerShell Sistemas
 ## 1.ps1
 ![image](https://user-images.githubusercontent.com/91737963/162325584-3d92752e-1f29-4c17-a3c0-500c51d8800d.png)
+
 Almacena el numero 1 en la variable $number
 Seguido esto Write-Host saca por pantalla la informacion que almacenamos en $number, también se le añade "The number is:" y sale 
 ### The number is: 1
